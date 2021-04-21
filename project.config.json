@@ -37,7 +37,7 @@
     "minifyWXSS": true
   },
   "appid": "wx174be210d92fefbe",
-  "projectname": "College-Competition-Applet",
+  "projectname": "College-Competition-Applet_V2",
   "libVersion": "2.15.0",
   "cloudfunctionTemplateRoot": "cloudfunctionTemplate",
   "condition": {

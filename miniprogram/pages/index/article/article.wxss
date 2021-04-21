@@ -38,7 +38,7 @@
 .subtitle{
   padding: 18rpx;
   font-size: 19px;
-  color: var(--orange);
+  color: var(--purple);
   font-weight: bold;
   margin-top: 20rpx;
 }

@@ -201,12 +201,12 @@
 }
 
 .border-bottom{
-  border-bottom: 2px solid var(--yellow);
+  border-bottom: 2px solid var(--purple);
 }
 
 .height{
-  height: 44rpx;
-  line-height: 44rpx;
+  height: 44px;
+  line-height: 44px;
 }
 
 .collect{
@@ -223,8 +223,8 @@
   align-items: center;
   justify-content: center;
   border-radius: 15rpx;
-  border: 1px solid var(--orange);
-  color: var(--orange);
+  border: 1px solid var(--red);
+  color: var(--red);
 }
 
 .bottomline{

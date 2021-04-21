@@ -19,7 +19,7 @@
 }
 
 .border-bottom{
-  border-bottom: 2px solid var(--yellow);
+  border-bottom: 2px solid var(--purple);
 }
 
 .title-image{
@@ -37,7 +37,7 @@
 
 .subtitle{
   font-size: 19px;
-  color: var(--orange);
+  color: var(--purple);
   font-weight: bold;
   margin-top: 20rpx;
   display: flex;

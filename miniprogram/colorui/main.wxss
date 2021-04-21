@@ -13,14 +13,14 @@ page {
 	/* Color 可以自定义相关配色 */
 	/* var属性兼容性 --> https://www.caniuse.com/#feat=css-variables */
 	/* 标准色 */
-	--red: #e54d42;
+	--red: #ca3c32;
 	--orange: #f37b1d;
 	--yellow: #fbbd08;
 	--olive: #8dc63f;
 	--green: #39b54a;
 	--cyan: #1cbbb4;
 	--blue: #0081ff;
-	--purple: #6739b6;
+	--purple: #a86cd6;
 	--mauve: #9c26b0;
 	--pink: #e03997;
 	--brown: #a5673f;
@@ -3849,6 +3849,12 @@ scroll-view.cu-steps .cu-item {
 
 .text-right {
 	text-align: right;
+}
+
+.text-purple,
+.line-purple,
+.lines-purple {
+	color: var(--purple);
 }
 
 .text-red,
