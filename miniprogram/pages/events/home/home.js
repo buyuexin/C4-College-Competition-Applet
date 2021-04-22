@@ -69,9 +69,9 @@ Page({
     let name = list[index].name;//选中项的name
     let word = this.data.keyword;
     if(status == 'line-gray') {//选中前为灰色，则点击后置为橘色
-      status = 'line-orange';
+      status = 'line-purple';
       word.push(name);//将name推到word中
-    } else {//选中前为橘色，则点击后置为灰色
+    } else {//选中前为紫色，则点击后置为灰色
       status = 'line-gray';
       let i = word.indexOf(name);
       if(i>-1) {

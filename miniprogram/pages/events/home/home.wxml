@@ -1,4 +1,4 @@
-<cu-custom bgColor="bg-gradual-purple" bgImage="{{true}}" isBack="{{false}}">
+<cu-custom bgImage="{{true}}" isBack="{{false}}">
 	<view slot="content">校内赛事</view>
 </cu-custom>
 
